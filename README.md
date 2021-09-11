@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Emmanuel
 - 👀 I’m interested in Data Science/Data Analytics
 - 🌱 I’m currently... **Machine Learning** :))
-- 💞️ I’m looking to collaborate on Data Analysis 
 - 📫 How to reach me : teorems@gmail.com
 
 <!---
