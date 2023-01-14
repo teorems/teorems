@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Emmanuel
-- 👀 I’m interested in Data Science/Data Analytics
+- 👀 I’m a Data Analyst.
 - 📫 How to reach me : teorems@gmail.com
 
 <!---
