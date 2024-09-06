@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Emmanuel
+- 👋 Hi, I’m Emanuele
 - 👀 I’m a Data Analyst.
 - 📫 How to reach me : teorems@gmail.com
 
